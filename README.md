@@ -1,13 +1,13 @@
 # Netflix Clone App
 
 
-### Home Page
+<!-- ### Home Page -->
 
-![home](/public/netflix_home.png)
+<!-- ![home](/public/netflix_home.png) -->
 
-### Movies Page
+<!-- ### Movies Page -->
 
-![movies](/public/netflix_movies.png)
+<!-- ![movies](/public/netflix_movies.png) -->
 
 ## React + Vite
 
